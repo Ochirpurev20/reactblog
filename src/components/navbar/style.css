@@ -1,0 +1,21 @@
+.navbar {
+  box-sizing: border-box;
+  width: 600px;
+  padding: 0px;
+  margin: auto;
+  margin-top: 20px;
+  min-height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.navbar ul {
+  display: flex;
+  justify-content: center;
+  background-color: #66b2b2;
+  width: 90%;
+  border-radius: 5px;
+  padding: 10px 0;
+  margin-bottom: 15px;
+}
