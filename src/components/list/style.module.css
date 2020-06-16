@@ -1,0 +1,24 @@
+table {
+  width: 100%;
+}
+.footerDiv {
+  text-align: center;
+  padding: 20px;
+}
+#footerDiv a {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.deleteBtn {
+  background-color: rgb(236, 32, 32);
+  border-radius: 5px;
+}
+
+.seeMore {
+  background-color: rgb(11, 252, 111);
+  border-radius: 5px;
+}
+.editBtn {
+  background-color: rgb(11, 252, 111);
+  border-radius: 5px;
+}
